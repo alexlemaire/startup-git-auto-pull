@@ -60,7 +60,7 @@
   "author": "Alexis Lemaire (a.lemaire94@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "conf": "^7.1.2",
     "inquirer": "^7.3.3",
     "inquirer-fuzzy-path": "^2.3.0",
