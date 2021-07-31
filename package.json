@@ -64,7 +64,7 @@
     "conf": "^7.1.2",
     "inquirer": "^7.3.3",
     "inquirer-fuzzy-path": "^2.3.0",
-    "isomorphic-git": "^1.8.1",
+    "isomorphic-git": "^1.8.2",
     "keytar": "^6.0.1",
     "pm2": "^4.5.5",
     "strip-ansi": "^6.0.0",
